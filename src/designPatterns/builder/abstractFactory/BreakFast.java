@@ -1,4 +1,4 @@
-package designPatterns.abstractFactory;
+package designPatterns.builder.abstractFactory;
 
 public interface BreakFast {
 
