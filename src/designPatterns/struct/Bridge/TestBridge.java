@@ -9,7 +9,6 @@ public class TestBridge {
 
         bridge.setSourceable(new Source2());
         bridge.method();
-
     }
 
 
